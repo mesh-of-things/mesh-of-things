@@ -2,7 +2,6 @@
 
 <div align="center">
     <img width="90" alt="Logo" src="https://avatars.githubusercontent.com/u/127781616?s=600&v=4">
-  </a>
 
   <h3 align="center">Mesh of Things (MoT)</h3>
   Rethink the way you connect and manage devices
@@ -16,8 +15,8 @@
   <a href="https://meshofthings.io">
     <img src="https://img.shields.io/badge/website-meshofthings.io-blue" alt="Website">
   </a>
-  <a href="https://meshofthings.io">
-    <img src="https://img.shields.io/badge/docs-meshofthings.io/docs-green" alt="Documentation">
+  <a href="https://docs.meshofthings.io">
+    <img src="https://img.shields.io/badge/docs-docs.meshofthings.io-green" alt="Documentation">
   </a>
 </p>
 
@@ -29,25 +28,23 @@ Mesh of Things is a decentralised alternative to traditional networking and over
 - **Over-the-Air Updates** - Deploy, monitor and update software on multiple operating systems and hardware types simultaneously
 - **Mesh Networking** - Go beyond hub and spoke networks with decentralised device-device communication
 - **You Choose the Hardware** - Corporate servers to Raspberry Pis, MoT works with everything you work with
-- **Container Support** - Supports Docker, Podman, containerd and CRI‑O for quick and easy deployments
+- **Container Support** - Supports Docker and Podman for quick and easy deployments
 - **Device Monitoring** - Monitor device status, view logs and restart applications all from the online dashboard
 - **Peer-to-peer connections** - Direct communication between devices without opening firewall ports
-- **Certificate Management** - Automatic certificate rotation and instant device blocking capabilities
 - **Affordable and flexible** - No vendor lock-in, and only pay for what you use.
 
 ## ⚡ Quick Start
 
-Connect your first device in **less than 60 seconds**:
+Connect your first device in **less than 30 seconds**:
 
-1. **[Register for free](https://dashboard.meshofthings.io/signup)** - No credit card required
-2. **Click the `Add Device` button** in your dashboard
-3. **Install Docker** and paste the command from dashboard into your terminal
-4. **Access your device** from the dashboard
-5. **Repeat** for as many devices as you like
+1. **Create an account** at [dashboard.meshofthings.io](https://dashboard.meshofthings.io/)
+2. **Open the Devices page** and click **Add device**
+3. **Install Docker** on the target machine
+4. **Copy the generated bootstrap command** from the dashboard and run it on the device
+5. **Open the device detail page** to view status, start a terminal session, or view logs
+6. **Deploy your applications** to multiple devices via the dashboard
 
-Simple!
-
-## 🏭 Use Cases
+## 🖥️ Use Cases
 
 Our users connect everything from:
 
@@ -72,30 +69,14 @@ Update multiple devices at once, independent of their operating system or hardwa
 
 ## 📚 Documentation
 
-- **[Getting Started](https://meshofthings.io/docs/)** - Quick start guide
-- **[Why MoT?](https://meshofthings.io/why-mot/)** - Learn about the benefits
-- **[FAQ](https://meshofthings.io/why-mot/faq)** - Frequently asked questions
-- **[Glossary](https://meshofthings.io/docs/glossary)** - Technical terms explained
-- **[Full Documentation](https://meshofthings.io/)** - Complete guides and references
+- **[Getting Started](https://docs.meshofthings.io/)** - Quick start guide
+- **[Why MoT?](https://docs.meshofthings.io/why-mot/)** - Learn about the benefits
+- **[Glossary](https://docs.meshofthings.io/glossary)** - Technical terms explained
 
 ## 🤝 Community & Support
 
 - **[GitHub Discussions](https://github.com/orgs/mesh-of-things/discussions)** - Community support and discussions
 
-## 🎯 Why Choose MoT?
-
-### Cost Effective
-
-- **No idling device traffic** - Devices connect only when needed
-- **No vendor lock-in** - Use your preferred container registries
-- **Focused mission** - Pay only for what you need
-
-### Scalable & Flexible
-
-- **Battle-tested technology** - Built on proven networking infrastructure
-- **Multi-platform support** - Mac, Linux, Windows, IoT devices
-- **Container-native** - Docker, Podman, containerd, CRI-O compatible
-
 ---
 
-**Get started**: [Sign up for free](https://dashboard.meshofthings.io/signup) • [View documentation](https://meshofthings.io) • [Join discussions](https://github.com/orgs/mesh-of-things/discussions)
+**Get started**: [Sign up for free](https://dashboard.meshofthings.io/) • [View documentation](https://docs.meshofthings.io/) • [Join discussions](https://github.com/orgs/mesh-of-things/discussions)
