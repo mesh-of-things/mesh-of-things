@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-    <img width="90" alt="Logo" src="https://avatars.githubusercontent.com/u/127781616?s=600&v=4">
+    <img width="90" alt="Mesh of Things logo" src="https://avatars.githubusercontent.com/u/127781616?s=600&v=4">
 
   <h3 align="center">Mesh of Things (MoT)</h3>
   Rethink the way you connect and manage devices
@@ -20,14 +20,14 @@
   </a>
 </p>
 
-Mesh of Things is a decentralised alternative to traditional networking and over-the-air updates that improves performance, reduces resource usage and lowers operating costs. From corporate servers to Raspberry Pis, a 'thing' in the Mesh of Things can be anything!
+Mesh of Things is a private mesh networking and over-the-air update platform for distributed edge device fleets. Connect Linux, macOS, Windows, Raspberry Pi, servers, robotics systems, AI edge nodes, and industrial IoT devices without opening firewall ports or sending someone onsite.
 
 ## 🚀 Key Features
 
-- **Connect Everything** - Mac, Linux and Windows, all connected in harmony from corporate servers to Raspberry Pis and everything in-between
+- **Connect Everything** - Mac, Linux and Windows, all connected in harmony from servers and AI edge nodes to robotics systems, Raspberry Pis and everything in-between
 - **Over-the-Air Updates** - Deploy, monitor and update software on multiple operating systems and hardware types simultaneously
-- **Mesh Networking** - Go beyond hub and spoke networks with decentralised device-device communication
-- **You Choose the Hardware** - Corporate servers to Raspberry Pis, MoT works with everything you work with
+- **Mesh Networking** - Go beyond hub and spoke networks with private device-to-device communication
+- **You Choose the Hardware** - Servers, Raspberry Pis, robotics systems and AI edge nodes; Mesh of Things works with everything you work with
 - **Container Support** - Supports Docker and Podman for quick and easy deployments
 - **Device Monitoring** - Monitor device status, view logs and restart applications all from the online dashboard
 - **Peer-to-peer connections** - Direct communication between devices without opening firewall ports
@@ -48,29 +48,31 @@ Connect your first device in **less than 30 seconds**:
 
 Our users connect everything from:
 
+- ✅ AI edge deployments
+- ✅ Robotics fleets
 - ✅ Industrial IoT
-- ✅ Cloud services and datacenters
-- ✅ Corporate VPNs
-- ✅ Smart cities
-- ✅ Gaming services
 - ✅ Digital signage
-- ✅ Home and office infrastructure
+- ✅ Gaming services
+- ✅ Remote infrastructure
+- ✅ Cloud-adjacent hardware and datacenters
+- ✅ MSP and customer device fleets
+- ✅ Home labs and maker projects
 - ✅ And many more...
 
 ## 🔗 How It Works
 
 ### Mesh Network Architecture
 
-MoT’s mesh network enables devices to communicate directly without requiring any open firewall ports. When a device comes online, it connects to our services to identify your other devices. Once identified, your devices communicate directly with each other, without relying on a central relay — enhancing security, performance, and reliability.
+Mesh of Things enables devices to communicate directly without requiring any open firewall ports. When a device comes online, it connects to our services to identify your other devices. Once identified, your devices communicate directly with each other, without relying on a central relay, enhancing security, performance, and reliability.
 
 ### Over-the-Air Updates
 
-Update multiple devices at once, independent of their operating system or hardware configuration. Install a supported container runtime (for example, Docker or Podman) on each device, connect them to MoT by running the MoT Agent container, and manage all updates centrally through the dashboard.
+Update multiple devices at once, independent of their operating system or hardware configuration. Install a supported container runtime (for example, Docker or Podman) on each device, connect them to Mesh of Things by running the Mesh of Things Agent container, and manage all updates centrally through the dashboard.
 
 ## 📚 Documentation
 
 - **[Getting Started](https://docs.meshofthings.io/)** - Quick start guide
-- **[Why MoT?](https://docs.meshofthings.io/why-mot/)** - Learn about the benefits
+- **[Why Mesh of Things?](https://docs.meshofthings.io/why-mot/)** - Learn about the benefits
 - **[Glossary](https://docs.meshofthings.io/glossary)** - Technical terms explained
 
 ## 🤝 Community & Support
